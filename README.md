@@ -12,7 +12,7 @@ Manual hostel management tasks like attendance marking, room and mess allotment,
 Android Studio (Java)
 OpenCV (Face Detection)
 Android Location API
-Custom Data Structures (Tree,HashMap,ArrayList,HashSet,TreeSet)
+Custom Data Structures (Tree,HashMap,ArrayList,HashSet,TreeSet) Custom DataStrcture
 
 📦 Modules & Functionalities
 📸 Attendance Management
