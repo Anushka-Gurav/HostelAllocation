@@ -8,11 +8,12 @@ The app aims to replace tedious manual processes by digitizing hostel management
 📌 Problem Statement
 Manual hostel management tasks like attendance marking, room and mess allotment, and complaint handling are time-consuming and inefficient. This app solves these issues by automating key processes, offering students a user-friendly mobile interface and giving administrators centralized control with real-time updates.
 
+
 🛠 Tech Stack
 Android Studio (Java)
 OpenCV (Face Detection)
 Android Location API
-Custom Data Structures (Tree,HashMap,ArrayList,HashSet,TreeSet)
+Custom Data Structures (Tree,HashMap,ArrayList,HashSet,TreeSet) All Custom DataStrctures
 
 📦 Modules & Functionalities
 📸 Attendance Management
