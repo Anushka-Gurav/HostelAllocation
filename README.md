@@ -1,3 +1,11 @@
+SY_95_Custom Data Structure (Hostel Allocation)
+
+Team members : 
+Tasnim Shaikh
+Anushka Gurav
+Bhargavee Mujbaile
+Anushka Mamane
+
 📱 Hostel Management & Attendance App 
 
 Video Demonstration Link :
