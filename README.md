@@ -1,4 +1,4 @@
-📱 Hostel Management & Attendance App
+📱 Hostel Management & Attendance App 
 
 Video Demonstration Link :
 https://drive.google.com/file/d/17Ux9vY1RQMQrRAkFV90CRhOWUoySj3l-/view?usp=sharing 
@@ -12,7 +12,7 @@ Manual hostel management tasks like attendance marking, room and mess allotment,
 Android Studio (Java)
 OpenCV (Face Detection)
 Android Location API
-Custom Data Structures (Java Collections)
+Custom Data Structures (Tree,HashMap,ArrayList,HashSet,TreeSet)
 
 📦 Modules & Functionalities
 📸 Attendance Management
