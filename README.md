@@ -3,6 +3,15 @@
 Video Demonstration Link :
 https://drive.google.com/file/d/17Ux9vY1RQMQrRAkFV90CRhOWUoySj3l-/view?usp=sharing 
 
+Team members : 
+Tasnim Shaikh
+Anushka Gurav
+Bhargavee Mujbaile
+Anushka Mamane
+
+Video Demonstration Link :
+https://drive.google.com/file/d/17Ux9vY1RQMQrRAkFV90CRhOWUoySj3l-/view?usp=sharing 
+
 A smart Android application designed to simplify key hostel operations — including attendance marking via camera and location, mess allocation, room allotment, announcements, complaint management, and an interactive chatbot system.
 The app aims to replace tedious manual processes by digitizing hostel management and providing real-time information to both students and administrators.
 📌 Problem Statement
@@ -61,10 +70,3 @@ Hostel  Mess  About  Students
 
 
 
-
-participants 
-
-1. Anushka gurav 
-2. Tasnim shaikh 
-3. Bhargavi mujbaile
-4. Anushka mamane
